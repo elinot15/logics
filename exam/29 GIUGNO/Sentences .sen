@@ -1,0 +1,1 @@
+7.1.0.17405wnds:Windows XP5.1SntFC1532329506433D1532332988633S84053@x (Tet(x)$(/y LeftOf(x, y) & /y BackOf(x, y)))@x @y @z ((LeftOf(x, y) & BackOf(x, z)) $ z= z)@x(Tet(x) $ /y (LeftOf(x, y) & BackOf(x, y)))s=33987;
